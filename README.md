@@ -105,7 +105,13 @@ O projeto é totalmente containerizado com **Docker** e gerenciado via **Laravel
     ./vendor/bin/sail artisan migrate:fresh
     ```
 
-7.  **Acessar a aplicação:**
+7.  **Instalar os packages e rodar o servidor Vite:**
+    ```bash
+    ./vendor/bin/sail sail npm i
+    ./vendor/bin/sail npm run dev
+    ```
+
+8.  **Acessar a aplicação:**
     A aplicação estará disponível em [http://localhost:8000](http://localhost:8000).
 
 ---

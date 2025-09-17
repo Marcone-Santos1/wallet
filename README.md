@@ -107,7 +107,7 @@ O projeto é totalmente containerizado com **Docker** e gerenciado via **Laravel
 
 7.  **Instalar os packages e rodar o servidor Vite:**
     ```bash
-    ./vendor/bin/sail sail npm i
+    ./vendor/bin/sail npm i
     ./vendor/bin/sail npm run dev
     ```
 

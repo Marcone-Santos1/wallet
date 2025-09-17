@@ -106,7 +106,7 @@ O projeto é totalmente containerizado com **Docker** e gerenciado via **Laravel
     ```
 
 7.  **Acessar a aplicação:**
-    A aplicação estará disponível em [http://localhost](http://localhost).
+    A aplicação estará disponível em [http://localhost:8000](http://localhost:8000).
 
 ---
 
@@ -126,4 +126,3 @@ A suíte inclui:
 * **Testes de Segurança:** Garantem que as rotas estão protegidas e que as regras de autorização são respeitadas.
 
 ---
-*Este README foi gerado em 17 de Setembro de 2025.*
